@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://AliasChen.github.io/sitemap.xml 
