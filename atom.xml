@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://AliasChen.github.io/atom.xml" rel="self"/>
-  <link href="http://AliasChen.github.io/"/>
-  <updated>2014-07-10T00:01:00+08:00</updated>
-  <id>http://AliasChen.github.io/</id>
+  <title><![CDATA[Shall We Talk]]></title>
+  <link href="http://www.duotin.fm/atom.xml" rel="self"/>
+  <link href="http://www.duotin.fm/"/>
+  <updated>2014-07-10T23:31:31+08:00</updated>
+  <id>http://www.duotin.fm/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[AliasChen]]></name>
+    <email><![CDATA[aliaschen@yeah.net]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

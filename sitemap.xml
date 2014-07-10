@@ -4,15 +4,29 @@
   
   
   <url>
-    <loc>http://AliasChen.github.io/blog/archives/</loc>
-    <lastmod>2014-07-10T00:01:00+08:00</lastmod>
+    <loc>http://www.duotin.fm/blog/archives/</loc>
+    <lastmod>2014-07-10T23:31:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://AliasChen.github.io/</loc>
-    <lastmod>2014-07-10T00:01:00+08:00</lastmod>
+    <loc>http://www.duotin.fm/archives/</loc>
+    <lastmod>2014-07-10T23:31:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.duotin.fm/blog/</loc>
+    <lastmod>2014-07-10T23:31:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.duotin.fm/</loc>
+    <lastmod>2014-07-10T23:31:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
